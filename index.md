@@ -12,7 +12,7 @@ I am in the Electrical Engineering and Computer Science department within the Co
 
 ## About My Mentor
 
-Mentor info goes here.
+My mentor is Odest Chadwicke Jenkins. He is a Professor in Computer Science and Engineering and Associate Director of the Robotics Institute, both at the University of Michigan in Ann Arbor. Professor Jenkins' research interests involve mobile manipulation, computer vision, interactive robot systems, and human-robot interaction. For more information about my mentor, click [here](https://robotics.umich.edu/profile/chad-jenkins/).
 
 ## About My Project
 
