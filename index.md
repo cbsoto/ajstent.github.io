@@ -16,7 +16,7 @@ My mentor is Odest Chadwicke Jenkins. He is a Professor in Computer Science and 
 
 ## About My Project
 
-Project description goes here.
+Our research goal is to create an effective first-year undergraduate programming experience involving academically popular path planning algorithms in conjunction with physical robots. Our goal this summer is to design, build, and program a prototype of a physical robot from scratch with a working simulation of said robot and dualshock 4 controller support for both physical and simulated systems. We also strive to improve upon methods of teaching programming to students with no background in computing.
 
 [My Final Report](files/finalreport.pdf)
 
